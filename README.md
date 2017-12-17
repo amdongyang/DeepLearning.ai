@@ -27,10 +27,9 @@ coursera/deeplearning.ai by Andrew NG, [deeplearning.ai](https://www.deeplearnin
    continued...
    
 
-### Update Records
-- Specialization 4 Done!　2017/11/13
-- Move Course Records to Records.md　2017/11/14
-- Add Expectation Maximization(EM) course links  2017/12/13
+### Other sourses
+* run Jupyter Notebook in cloud, [zhihuzhuanlan](https://zhuanlan.zhihu.com/p/20226040)
+* Generate Adversial Network, [GAN](https://www.youtube.com/watch?v=0CKeqXl5IY0&t=3s)
 
 ### CAMA-LAB 机器学习暑期研讨班（2017）
 <font size = 3> CAMA-LAB Summer Maching Learning Disscussion Group,</font> [CAMA](https://github.com/AAAAAbox/cama_summer_class_2017)
