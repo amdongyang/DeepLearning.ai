@@ -28,7 +28,7 @@ coursera/deeplearning.ai by Andrew NG, [deeplearning.ai](https://www.deeplearnin
    
 
 ### Other sourses
-* run Jupyter Notebook in cloud, [zhihuzhuanlan](https://zhuanlan.zhihu.com/p/20226040)
+* Run Jupyter Notebook in cloud, [zhihuzhuanlan](https://zhuanlan.zhihu.com/p/20226040)
 * Generate Adversial Network, [GAN](https://www.youtube.com/watch?v=0CKeqXl5IY0&t=3s)
 
 ### CAMA-LAB 机器学习暑期研讨班（2017）
